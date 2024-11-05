@@ -1,9 +1,10 @@
 inventory = {
-    "Gainer": (3000, 100),
+    "panner": (3000, 100),
     "Peanut Butter": (500, 150),
     "Honey": (49, 150),
-    "Glutamine": (799, 100),
-    "Creatine": (499, 70)}
+    "Horkicks": (799, 100),
+    "Oil": (499, 70),
+    "Rice":(500, 100)}
 
 
 def update_inv(item, qnt_sold):
